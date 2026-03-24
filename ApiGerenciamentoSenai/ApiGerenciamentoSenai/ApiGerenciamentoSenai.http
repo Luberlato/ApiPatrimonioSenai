@@ -1,0 +1,6 @@
+@ApiGerenciamentoSenai_HostAddress = http://localhost:5161
+
+GET {{ApiGerenciamentoSenai_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
