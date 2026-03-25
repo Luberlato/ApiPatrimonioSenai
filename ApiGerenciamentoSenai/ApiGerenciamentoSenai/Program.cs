@@ -1,4 +1,7 @@
+using ApiGerenciamentoSenai.Application.Services;
 using ApiGerenciamentoSenai.Contexts;
+using ApiGerenciamentoSenai.Interfaces;
+using ApiGerenciamentoSenai.Repositories;
 using DotNetEnv;
 using Microsoft.EntityFrameworkCore;
 
@@ -14,6 +17,11 @@ string connectionString = Environment.GetEnvironmentVariable("CONNECTION_STRING"
 builder.Services.AddDbContext<GestaoPatrimoniosContext>(options => options.UseSqlServer(connectionString));
 
 builder.Services.AddControllers();
+
+builder.Services.AddScoped<IAreaRepository, AreaRepository>();
+builder.Services.AddScoped<AreaService>();
+
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
