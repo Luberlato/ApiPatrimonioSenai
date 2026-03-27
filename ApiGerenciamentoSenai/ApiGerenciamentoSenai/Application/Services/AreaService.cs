@@ -58,11 +58,15 @@ namespace ApiGerenciamentoSenai.Application.Services
             if (areaBanco == null)
                 throw new DomainException("Area não encontrada");
 
+            Area? areaExistente = _repository.ObterPorNome(areaDto.NomeArea);
 
+            if (areaExistente != null)
+                throw new DomainException("Essa área já existe");
+                    
 
             Area area = AreaParaDto.ConverterDtoCriar(areaDto);
 
-            
+            areaBanco.NomeArea = area.NomeArea;
 
             _repository.Atualizar(area);
 

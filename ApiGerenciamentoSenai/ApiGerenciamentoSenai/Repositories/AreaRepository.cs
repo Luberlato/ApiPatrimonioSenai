@@ -31,6 +31,7 @@ namespace ApiGerenciamentoSenai.Repositories
         public void Adicionar(Area area)
         {
             _context.Area.Add(area);
+            _context.SaveChanges();
         }
 
         public void Atualizar(Area area)
@@ -40,9 +41,11 @@ namespace ApiGerenciamentoSenai.Repositories
             
             Area areaBanco = _context.Area.Find(area.AreaID);
 
-            areaBanco.NomeArea = area.NomeArea;
+            
             
             _context.SaveChanges();
         }
+
+        
     }
 }
