@@ -3,36 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\domains\\bairro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\domains\\bairro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\repositories\\bairrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\repositories\\bairrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\interfaces\\ibairrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\interfaces\\ibairrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\application\\services\\cidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\application\\services\\cidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\repositories\\cidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\repositories\\cidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\interfaces\\icidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\interfaces\\icidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\controllers\\areacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\controllers\\areacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\interfaces\\ilocalizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\interfaces\\ilocalizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\dtos\\cidadedto\\listarcidadedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\dtos\\cidadedto\\listarcidadedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\application\\services\\localizacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\application\\services\\localizacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\application\\conversoes\\cidadedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\application\\conversoes\\cidadedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\controllers\\localizacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\controllers\\localizacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\interfaces\\icidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\interfaces\\icidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\repositories\\localizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\repositories\\localizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\application\\conversoes\\localizacaoparadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\application\\conversoes\\localizacaoparadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\application\\regras\\validacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\application\\regras\\validacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +58,163 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ListarCidadeDto.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\DTOs\\CidadeDto\\ListarCidadeDto.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\DTOs\\CidadeDto\\ListarCidadeDto.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\DTOs\\CidadeDto\\ListarCidadeDto.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\DTOs\\CidadeDto\\ListarCidadeDto.cs",
+              "DocumentIndex": 0,
+              "Title": "Bairro.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Domains\\Bairro.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Domains\\Bairro.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Domains\\Bairro.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Domains\\Bairro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T12:45:17.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CidadeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\CidadeRepository.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Repositories\\CidadeRepository.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\CidadeRepository.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Repositories\\CidadeRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T11:45:22.632Z",
+              "WhenOpened": "2026-03-30T13:55:43.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICidadeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Interfaces\\ICidadeRepository.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Interfaces\\ICidadeRepository.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Interfaces\\ICidadeRepository.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Interfaces\\ICidadeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Title": "BairroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\BairroRepository.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Repositories\\BairroRepository.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\BairroRepository.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Repositories\\BairroRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T11:11:24.46Z",
+              "WhenOpened": "2026-03-30T13:40:42.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ILocalizacaoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Interfaces\\ILocalizacaoRepository.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Interfaces\\ILocalizacaoRepository.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Interfaces\\ILocalizacaoRepository.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Interfaces\\ILocalizacaoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Title": "IBairroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Interfaces\\IBairroRepository.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Interfaces\\IBairroRepository.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Interfaces\\IBairroRepository.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Interfaces\\IBairroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T13:23:09.004Z",
+              "WhenOpened": "2026-03-30T13:38:02.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LocalizacaoController.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Controllers\\LocalizacaoController.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Controllers\\LocalizacaoController.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Controllers\\LocalizacaoController.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Controllers\\LocalizacaoController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAADoAAABMAAAAAAAAAA==",
+              "Title": "CidadeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\CidadeRepository.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Repositories\\CidadeRepository.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\CidadeRepository.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Repositories\\CidadeRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T13:09:03.489Z",
+              "WhenOpened": "2026-03-30T13:18:03.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "LocalizacaoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\LocalizacaoRepository.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Repositories\\LocalizacaoRepository.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\LocalizacaoRepository.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Repositories\\LocalizacaoRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCgAAAAzAAAAAAAAAA==",
+              "Title": "AreaController.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Controllers\\AreaController.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Controllers\\AreaController.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Controllers\\AreaController.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Controllers\\AreaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T13:03:09.083Z",
+              "WhenOpened": "2026-03-30T13:09:43.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LocalizacaoService.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Services\\LocalizacaoService.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Application\\Services\\LocalizacaoService.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Services\\LocalizacaoService.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Application\\Services\\LocalizacaoService.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAwwEYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ListarCidadeDto.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\DTOs\\CidadeDto\\ListarCidadeDto.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\DTOs\\CidadeDto\\ListarCidadeDto.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\DTOs\\CidadeDto\\ListarCidadeDto.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\DTOs\\CidadeDto\\ListarCidadeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T12:56:37.286Z",
+              "WhenOpened": "2026-03-30T13:07:10.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "LocalizacaoParaDto.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Conversoes\\LocalizacaoParaDto.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Application\\Conversoes\\LocalizacaoParaDto.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Conversoes\\LocalizacaoParaDto.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Application\\Conversoes\\LocalizacaoParaDto.cs",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Program.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Program.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:01:33.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CidadeController.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Controllers\\CidadeController.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Controllers\\CidadeController.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Controllers\\CidadeController.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Controllers\\CidadeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:45:14.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CidadeService.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Services\\CidadeService.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Application\\Services\\CidadeService.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Services\\CidadeService.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Application\\Services\\CidadeService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T11:20:02.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CidadeDto.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Conversoes\\CidadeDto.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Application\\Conversoes\\CidadeDto.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Conversoes\\CidadeDto.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Application\\Conversoes\\CidadeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:39:55.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICidadeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Interfaces\\ICidadeRepository.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Interfaces\\ICidadeRepository.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Interfaces\\ICidadeRepository.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Interfaces\\ICidadeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T11:44:28.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Validacoes.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Regras\\Validacoes.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Application\\Regras\\Validacoes.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Regras\\Validacoes.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Application\\Regras\\Validacoes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T12:56:35.315Z"
+              "WhenOpened": "2026-03-30T11:41:12.409Z",
+              "EditorCaption": ""
             }
           ]
         },

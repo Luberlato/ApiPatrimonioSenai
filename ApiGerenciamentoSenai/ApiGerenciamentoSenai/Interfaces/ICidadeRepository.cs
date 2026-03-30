@@ -9,5 +9,6 @@ namespace ApiGerenciamentoSenai.Interfaces
         Cidade ObterPorNomeEEstado(string nomeCidade, string nomeEstado);
         void Adicionar(Cidade cidade);
         void Atualizar(Cidade cidade);
+        
     }
 }

@@ -47,7 +47,12 @@ namespace ApiGerenciamentoSenai.Repositories
             cidadeBanco.NomeCidade = cidade.NomeCidade;
             cidadeBanco.Estado = cidade.Estado;
 
+            _context.SaveChanges();
+           
         }
+
+       
+
 
     }
 }
