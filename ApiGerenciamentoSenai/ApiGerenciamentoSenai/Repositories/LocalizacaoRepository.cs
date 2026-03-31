@@ -36,7 +36,10 @@ namespace ApiGerenciamentoSenai.Repositories
 
         public void Atualizar(Guid id, Localizacao local)
         {
-            Localizacao localBanco = this.ObterPorId(id);
+            Localizacao? localBanco = this.ObterPorId(id);
+
+            if (localBanco == null)
+                return;
 
             localBanco.NomeLocal = local.NomeLocal;
             localBanco.LocalSAP = local.LocalSAP;
@@ -49,7 +52,7 @@ namespace ApiGerenciamentoSenai.Repositories
 
         public bool AreaExiste(Guid AreaId)
         {
-            return _context.Area.Any(area => area.AreaID == AreaId);
+           return _context.Area.Any(area => area.AreaID == AreaId);
         }
     }
 }

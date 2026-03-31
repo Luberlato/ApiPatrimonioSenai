@@ -52,12 +52,12 @@ namespace ApiGerenciamentoSenai.Controllers
         }
 
         [HttpPut("{id}")]
-        public ActionResult<ListarLocalizacaoDto> Atualizar(CriarLocalizacaoDto areaDto, Guid id)
+        public ActionResult Atualizar(CriarLocalizacaoDto areaDto, Guid id)
         {
             try
             {
                 ListarLocalizacaoDto area = _service.Atualizar(areaDto, id);
-                return StatusCode(204, area); 
+                return NoContent();
             }
 
             catch (DomainException ex)

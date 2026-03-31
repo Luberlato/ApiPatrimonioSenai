@@ -27,6 +27,9 @@ builder.Services.AddScoped<LocalizacaoService>();
 builder.Services.AddScoped<ICidadeRepository, CidadeRepository>();
 builder.Services.AddScoped<CidadeService>();
 
+builder.Services.AddScoped<IBairroRepository, BairroRepository>();
+builder.Services.AddScoped<BairroService>();
+
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

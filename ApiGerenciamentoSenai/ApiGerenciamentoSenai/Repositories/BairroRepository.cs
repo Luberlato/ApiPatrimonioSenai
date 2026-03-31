@@ -22,18 +22,14 @@ namespace ApiGerenciamentoSenai.Repositories
             return _context.Bairro.Find(id);
         }
 
-        public Bairro ObterPorNome(string nome, Guid cidadeId)
+        public Bairro ObterPorNome(Guid cidadeId, string nome)
         {
             return _context.Bairro.FirstOrDefault(bairro => bairro.NomeBairro == nome && bairro.CidadeID == cidadeId);
         }
 
         public bool CidadeExiste(Guid cidadeId)
         {
-            if (!_context.Cidade.Any(cidade => cidade.CidadeID == cidadeId))
-                return false;
-
-
-            return true;
+            return _context.Cidade.Any(cidade => cidade.CidadeID == cidadeId);
         }
 
         public void Adicionar(Bairro bairro)
@@ -49,4 +45,5 @@ namespace ApiGerenciamentoSenai.Repositories
             bairroBanco.NomeBairro = bairro.NomeBairro;
             bairroBanco.CidadeID = bairro.CidadeID;
         }
+    }
 }

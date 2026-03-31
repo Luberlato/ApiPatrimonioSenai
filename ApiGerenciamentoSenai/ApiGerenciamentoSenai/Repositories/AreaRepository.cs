@@ -41,8 +41,6 @@ namespace ApiGerenciamentoSenai.Repositories
             
             Area areaBanco = _context.Area.Find(area.AreaID);
 
-            
-            
             _context.SaveChanges();
         }
 

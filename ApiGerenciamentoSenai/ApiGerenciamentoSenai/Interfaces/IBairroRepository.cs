@@ -9,6 +9,7 @@ namespace ApiGerenciamentoSenai.Interfaces
         Bairro ObterPorId(Guid bairroId);
         Bairro ObterPorNome(Guid cidadeId, string nomeBairro);
         bool CidadeExiste(Guid cidadeId);
+        
         void Adicionar(Bairro bairro);
         void Atualizar(Bairro bairro);
 

@@ -1,5 +1,5 @@
 ﻿using ApiGerenciamentoSenai.Application.Services;
-using ApiGerenciamentoSenai.DTOs.CidadeDto;
+using ApiGerenciamentoSenai.DTOs.BairroDto;
 using ApiGerenciamentoSenai.Exceptions;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -8,40 +8,27 @@ namespace ApiGerenciamentoSenai.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CidadeController : ControllerBase
+    public class BairroController : ControllerBase
     {
-        private readonly CidadeService _service;
+        private readonly BairroService _service;
 
-        public CidadeController(CidadeService service)
+        public BairroController(BairroService service)
         {
             _service = service;
         }
 
         [HttpGet]
-        public ActionResult<List<ListarCidadeDto>> Listar()
+        public ActionResult<List<ListarBairroDto>> Listar()
         {
             return Ok(_service.Listar());
         }
 
         [HttpGet("{id}")]
-        public ActionResult<ListarCidadeDto> ObterPorId(Guid id)
+        public ActionResult<ListarBairroDto> ObterPorId(Guid id)
         {
             try
             {
                 return Ok(_service.ObterPorId(id));
-            }
-            catch (DomainException ex)
-            {
-                return BadRequest(ex.Message);
-            }
-        }
-
-        [HttpGet("{nome}/{estado}")]
-        public ActionResult<ListarCidadeDto> ObterPorNomeEEestado(string nome, string estado)
-        {
-            try
-            {
-                return Ok(_service.ObterPorNomeEEstado(nome, estado));
             }
             catch(DomainException ex)
             {
@@ -49,13 +36,25 @@ namespace ApiGerenciamentoSenai.Controllers
             }
         }
 
-        [HttpPost]
-        public ActionResult<ListarCidadeDto> Adicionar(CriarCidadeDto cidadeDto)
+        [HttpGet("{nome}/{id}")]
+        public ActionResult<ListarBairroDto> ObterPorNome(string nome, Guid id)
         {
             try
             {
-                ListarCidadeDto cidade = _service.Adicionar(cidadeDto);
-                return StatusCode(201, cidade);
+                return Ok(_service.ObterPorNome(id, nome));
+            }
+            catch (DomainException ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpPost]
+        public ActionResult<ListarBairroDto> Adicionar(CriarBairroDto bairroDto)
+        {
+            try
+            {
+                return StatusCode(201, _service.Adicionar(bairroDto));
             }
             catch(DomainException ex)
             {
@@ -64,15 +63,13 @@ namespace ApiGerenciamentoSenai.Controllers
         }
 
         [HttpPut("{id}")]
-        public ActionResult<ListarCidadeDto> Atualizar(CriarCidadeDto cidade, Guid id)
+        public ActionResult Atualizar(Guid id, CriarBairroDto bairroDto)
         {
             try
             {
-              _service.Atualizar(cidade, id);
-
+                _service.Atualizar(id, bairroDto);
                 return NoContent();
             }
-
             catch (DomainException ex)
             {
                 return BadRequest(ex.Message);

@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using ApiGerenciamentoSenai.Domains;
+﻿using ApiGerenciamentoSenai.Domains;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiGerenciamentoSenai.Contexts;
@@ -46,6 +44,7 @@ public partial class GestaoPatrimoniosContext : DbContext
 
     public virtual DbSet<Usuario> Usuario { get; set; }
 
+   
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Area>(entity =>
@@ -350,6 +349,7 @@ public partial class GestaoPatrimoniosContext : DbContext
             entity.Property(e => e.Nome)
                 .HasMaxLength(150)
                 .IsUnicode(false);
+            entity.Property(e => e.PirmeiroAcessoUsuario).HasDefaultValue(true);
             entity.Property(e => e.RG)
                 .HasMaxLength(15)
                 .IsUnicode(false);
