@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\repositories\\arearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\repositories\\arearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\repositories\\localizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\repositories\\localizacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\repositories\\cidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\repositories\\cidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\repositories\\bairrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\repositories\\bairrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\application\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\application\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\application\\services\\localizacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\application\\services\\localizacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\repositories\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\repositories\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\controllers\\localizacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\controllers\\localizacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\interfaces\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\interfaces\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AreaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\AreaRepository.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Repositories\\AreaRepository.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\AreaRepository.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Repositories\\AreaRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T13:49:35.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CidadeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\CidadeRepository.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Repositories\\CidadeRepository.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\CidadeRepository.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Repositories\\CidadeRepository.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Program.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Program.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T13:49:29.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BairroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\BairroRepository.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Repositories\\BairroRepository.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\BairroRepository.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Repositories\\BairroRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T13:47:10.529Z",
+              "WhenOpened": "2026-04-01T13:22:08.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LocalizacaoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\LocalizacaoRepository.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Repositories\\LocalizacaoRepository.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\LocalizacaoRepository.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Repositories\\LocalizacaoRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwDcAAAAJAAAAAAAAAA==",
+              "Title": "CidadeController.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Controllers\\CidadeController.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Controllers\\CidadeController.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Controllers\\CidadeController.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Controllers\\CidadeController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T13:27:05.018Z",
+              "WhenOpened": "2026-04-01T13:15:53.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LocalizacaoService.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Services\\LocalizacaoService.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Application\\Services\\LocalizacaoService.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Services\\LocalizacaoService.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Application\\Services\\LocalizacaoService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EnderecoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\EnderecoRepository.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Repositories\\EnderecoRepository.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\EnderecoRepository.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Repositories\\EnderecoRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwC8AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T13:26:44.873Z",
+              "WhenOpened": "2026-04-01T13:12:07.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LocalizacaoController.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Controllers\\LocalizacaoController.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Controllers\\LocalizacaoController.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Controllers\\LocalizacaoController.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Controllers\\LocalizacaoController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwDsAAAAjAAAAAAAAAA==",
+              "Title": "IEnderecoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Interfaces\\IEnderecoRepository.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Interfaces\\IEnderecoRepository.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Interfaces\\IEnderecoRepository.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Interfaces\\IEnderecoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T13:22:33.686Z",
+              "WhenOpened": "2026-04-01T13:11:38.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Controllers\\EnderecoController.cs*",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Controllers\\EnderecoController.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwDgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T13:01:46.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnderecoService.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Services\\EnderecoService.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Application\\Services\\EnderecoService.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Services\\EnderecoService.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Application\\Services\\EnderecoService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA2wB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:41:45.609Z",
               "EditorCaption": ""
             }
           ]
