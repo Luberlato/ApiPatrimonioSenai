@@ -28,9 +28,11 @@ namespace ApiGerenciamentoSenai.Application.Services
 
         public ListarEnderecoDto BuscarPorLogradouroENumero(string logradouro, Guid bairroId, int? numero)
         {
-            ListarEnderecoDto? enderecoDto = EnderecoParaDto.ConverterParaDto(_repository.BuscarPorLogradouroENumero(logradouro, bairroId, numero));
+            Endereco? endereco = _repository.BuscarPorLogradouroENumero(logradouro, bairroId, numero);
 
-            if (enderecoDto == null)
+            ListarEnderecoDto enderecoDto = EnderecoParaDto.ConverterParaDto(endereco);
+
+            if (endereco == null)
                 throw new DomainException("Endereco não encontrado");
 
             return enderecoDto;
