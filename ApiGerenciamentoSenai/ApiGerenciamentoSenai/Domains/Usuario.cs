@@ -29,7 +29,7 @@ public partial class Usuario
 
     public Guid TipoUsuarioID { get; set; }
 
-    public bool PirmeiroAcessoUsuario { get; set; }
+    public bool PrimeiroAcessoUsuario { get; set; }
 
     public virtual Cargo Cargo { get; set; } = null!;
 

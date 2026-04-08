@@ -1,3 +1,4 @@
+using ApiGerenciamentoSenai.Application.Auth;
 using ApiGerenciamentoSenai.Application.Services;
 using ApiGerenciamentoSenai.Contexts;
 using ApiGerenciamentoSenai.Interfaces;
@@ -33,8 +34,13 @@ builder.Services.AddScoped<BairroService>();
 builder.Services.AddScoped<IEnderecoRepository, EnderecoRepository>();
 builder.Services.AddScoped<EnderecoService>();
 
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+builder.Services.AddScoped<UsuarioService>();
+
 builder.Services.AddScoped<ITipoUsuarioRepository, TipoUsuarioRepository>();
 builder.Services.AddScoped<TipoUsuarioService>();
+
+builder.Services.AddScoped<GeradorTokenJwt>();
 
 
 

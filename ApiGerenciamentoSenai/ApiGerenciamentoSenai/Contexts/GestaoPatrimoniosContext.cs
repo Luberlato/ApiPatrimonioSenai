@@ -1,4 +1,6 @@
-﻿using ApiGerenciamentoSenai.Domains;
+﻿using System;
+using System.Collections.Generic;
+using ApiGerenciamentoSenai.Domains;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiGerenciamentoSenai.Contexts;
@@ -38,13 +40,14 @@ public partial class GestaoPatrimoniosContext : DbContext
 
     public virtual DbSet<TipoAlteracao> TipoAlteracao { get; set; }
 
-    public virtual DbSet<TipoPatrimonio> TipoPatrimonio { get; set; }
-
     public virtual DbSet<TipoUsuario> TipoUsuario { get; set; }
 
     public virtual DbSet<Usuario> Usuario { get; set; }
 
-   
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
+        => optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=GestaoPatrimonios;Trusted_Connection=True;TrustServerCertificate=True");
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Area>(entity =>
@@ -215,11 +218,6 @@ public partial class GestaoPatrimoniosContext : DbContext
                 .HasForeignKey(d => d.StatusPatrimonioID)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_Patrimonio_StatusPatrimonio");
-
-            entity.HasOne(d => d.TipoPatrimonio).WithMany(p => p.Patrimonio)
-                .HasForeignKey(d => d.TipoPatrimonioID)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK_Patrimonio_TipoPatrimonio");
         });
 
         modelBuilder.Entity<SolicitacaoTransferencia>(entity =>
@@ -292,18 +290,6 @@ public partial class GestaoPatrimoniosContext : DbContext
                 .IsUnicode(false);
         });
 
-        modelBuilder.Entity<TipoPatrimonio>(entity =>
-        {
-            entity.HasKey(e => e.TipoPatrimonioID).HasName("PK__TipoPatr__4DC9FF99D6795581");
-
-            entity.HasIndex(e => e.NomeTipo, "UQ__TipoPatr__7859A10ACCD565C9").IsUnique();
-
-            entity.Property(e => e.TipoPatrimonioID).HasDefaultValueSql("(newid())");
-            entity.Property(e => e.NomeTipo)
-                .HasMaxLength(100)
-                .IsUnicode(false);
-        });
-
         modelBuilder.Entity<TipoUsuario>(entity =>
         {
             entity.HasKey(e => e.TipoUsuarioID).HasName("PK__TipoUsua__7F22C702DB493176");
@@ -349,7 +335,7 @@ public partial class GestaoPatrimoniosContext : DbContext
             entity.Property(e => e.Nome)
                 .HasMaxLength(150)
                 .IsUnicode(false);
-            entity.Property(e => e.PirmeiroAcessoUsuario).HasDefaultValue(true);
+            entity.Property(e => e.PrimeiroAcessoUsuario).HasDefaultValue(true);
             entity.Property(e => e.RG)
                 .HasMaxLength(15)
                 .IsUnicode(false);

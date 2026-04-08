@@ -19,15 +19,9 @@ public partial class Patrimonio
 
     public Guid TipoPatrimonioID { get; set; }
 
-    public Guid StatusPatrimonioID { get; set; }
-
     public virtual Localizacao Localizacao { get; set; } = null!;
 
     public virtual ICollection<LogPatrimonio> LogPatrimonio { get; set; } = new List<LogPatrimonio>();
 
     public virtual ICollection<SolicitacaoTransferencia> SolicitacaoTransferencia { get; set; } = new List<SolicitacaoTransferencia>();
-
-    public virtual StatusPatrimonio StatusPatrimonio { get; set; } = null!;
-
-    public virtual TipoPatrimonio TipoPatrimonio { get; set; } = null!;
 }

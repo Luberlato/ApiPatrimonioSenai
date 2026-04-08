@@ -1,7 +1,6 @@
 ﻿using ApiGerenciamentoSenai.Application.Services;
 using ApiGerenciamentoSenai.DTOs.TipoUsuarioDto;
 using ApiGerenciamentoSenai.Exceptions;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ApiGerenciamentoSenai.Controllers
