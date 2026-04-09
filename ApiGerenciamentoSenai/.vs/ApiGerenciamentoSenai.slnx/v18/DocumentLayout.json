@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\domains\\patrimonio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\domains\\patrimonio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\application\\services\\statuspatrimonioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\application\\services\\statuspatrimonioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\repositories\\patrimoniorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\repositories\\patrimoniorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\interfaces\\ipatrimoniorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\interfaces\\ipatrimoniorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|c:\\users\\42344828893\\desktop\\apipatrimoniosenai\\apigerenciamentosenai\\apigerenciamentosenai\\application\\conversoes\\statuspatrimonioparadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9A4131-9537-0CCE-12B6-753B05E95448}|ApiGerenciamentoSenai\\ApiGerenciamentoSenai.csproj|solutionrelative:apigerenciamentosenai\\application\\conversoes\\statuspatrimonioparadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Patrimonio.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Domains\\Patrimonio.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Domains\\Patrimonio.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Domains\\Patrimonio.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Domains\\Patrimonio.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBkAAACHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T13:25:27.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PatrimonioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\PatrimonioRepository.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Repositories\\PatrimonioRepository.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Repositories\\PatrimonioRepository.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Repositories\\PatrimonioRepository.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAwEEAAAAFAAAAAAAAAA==",
+              "Title": "StatusPatrimonioParaDto.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Conversoes\\StatusPatrimonioParaDto.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Application\\Conversoes\\StatusPatrimonioParaDto.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Conversoes\\StatusPatrimonioParaDto.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Application\\Conversoes\\StatusPatrimonioParaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T12:58:50.948Z",
+              "WhenOpened": "2026-04-09T13:37:38.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPatrimonioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Interfaces\\IPatrimonioRepository.cs",
-              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Interfaces\\IPatrimonioRepository.cs",
-              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Interfaces\\IPatrimonioRepository.cs",
-              "RelativeToolTip": "ApiGerenciamentoSenai\\Interfaces\\IPatrimonioRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "StatusPatrimonioService.cs",
+              "DocumentMoniker": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Services\\StatusPatrimonioService.cs",
+              "RelativeDocumentMoniker": "ApiGerenciamentoSenai\\Application\\Services\\StatusPatrimonioService.cs",
+              "ToolTip": "C:\\Users\\42344828893\\Desktop\\ApiPatrimonioSenai\\ApiGerenciamentoSenai\\ApiGerenciamentoSenai\\Application\\Services\\StatusPatrimonioService.cs",
+              "RelativeToolTip": "ApiGerenciamentoSenai\\Application\\Services\\StatusPatrimonioService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwEEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T12:56:34.307Z",
+              "WhenOpened": "2026-04-09T13:36:35.892Z",
               "EditorCaption": ""
             }
           ]

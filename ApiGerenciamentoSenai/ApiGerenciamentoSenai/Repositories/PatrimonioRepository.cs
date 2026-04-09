@@ -56,7 +56,6 @@ namespace ApiGerenciamentoSenai.Repositories
             patrimonioBanco.NumeroPatrimonio = patrimonio.NumeroPatrimonio;
             patrimonioBanco.Valor = patrimonio.Valor;
             patrimonioBanco.Imagem = patrimonio.Imagem;
-            patrimonioBanco.TipoPatrimonioID = patrimonio.TipoPatrimonioID;
             patrimonioBanco.LocalizacaoID = patrimonio.LocalizacaoID;
             patrimonioBanco.Valor = patrimonio.Valor;
 
