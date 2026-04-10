@@ -3,6 +3,7 @@ using ApiGerenciamentoSenai.Domains;
 using ApiGerenciamentoSenai.DTOs.StatusPatrimonioDto;
 using ApiGerenciamentoSenai.Interfaces;
 using ApiGerenciamentoSenai.Exceptions;
+using ApiGerenciamentoSenai.Application.Regras;
 
 namespace ApiGerenciamentoSenai.Application.Services
 {
@@ -45,6 +46,8 @@ namespace ApiGerenciamentoSenai.Application.Services
         {
             StatusPatrimonio? statusBanco = _repository.ObterPorNome(statusDto.Nome);
 
+            Validacoes.ValidarNome(statusDto.Nome);
+
             if (statusBanco != null)
                 throw new DomainException("Esse status já existe");
 
@@ -56,6 +59,8 @@ namespace ApiGerenciamentoSenai.Application.Services
         public void Atualizar(CriarStatusPatrimonioDto statusDto, Guid id)
         {
             StatusPatrimonio? statusBanco = _repository.ObterPorId(id);
+
+            Validacoes.ValidarNome(statusDto.Nome);
 
             if (statusBanco == null)
                 throw new DomainException("Status Patrimonio não encontrado");
